@@ -1,0 +1,22 @@
+# Compiled binary
+nimouse
+nimouse.exe
+
+# Nim build cache
+nimcache/
+.nimcache/
+
+# Nimble
+*.nimble.lock
+.nimble/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
